@@ -1,0 +1,1 @@
+var json_Central_2 = {"type":"FeatureCollection","name":"Central_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"REGION":"GREATER ACCRA","DISTRICT":"ACCRA METROPOLIS"},"geometry":{"type":"Point","coordinates":[-0.216426832697817,5.591403687113898]}}]}
